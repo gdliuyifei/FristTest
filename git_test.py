@@ -217,3 +217,6 @@ class AES:
             s[i][3] ^= v
 
         self.__mix_columns(s)
+
+
+print("正在测试代码")
